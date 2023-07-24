@@ -1,0 +1,312 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+ font-family: "sahel", sans-serif !important;
+}
+.icofont-stylish-left:before{content:"\eac0"!important;}.icofont-stylish-right:before{content:"\eabf"!important;}
+.icofont-rounded-left:before{content:"\eaa0"!important;}.icofont-rounded-right:before{content:"\ea9d"!important;}
+.icofont-arrow-left:before{content:"\ea5d"!important;}.icofont-arrow-right:before{content:"\ea5c"!important;}
+.icofont-double-left:before{content:"\ea7c"!important;}.icofont-double-right:before{content:"\ea7b"!important;}
+.icofont-simple-left:before{content:"\eab8"!important;}.icofont-simple-right:before{content:"\eab5"!important;}
+.icofont-dotted-right:before{content:"\ea78"!important;}.icofont-dotted-left:before{content:"\ea79"!important;}
+.dark-version-btn .slider.round {
+  border-radius: 50% 0 0 50%;
+}
+
+.dark-version-btn .slider.round:before {
+  border-radius: 50% 0 0 50%;
+}
+.hero-content h1 span::after {
+  background: unset !important;
+}
+.theme-dark .hero-content h1 span::after {
+  background: unset !important;
+}
+.default-btn, .progress-title, .services-btn, .buy-btn, .features-btn, .services-btn, span, button, h3 {
+  letter-spacing: 0px !important;
+}
+.footer-area.repair-footer-area::after {
+  right: unset;
+  left: 0;
+}
+.single-team-box .image ul {
+  padding-right: unset;
+  padding-left: 0;
+}
+.odometer.odometer-auto-theme,.odometer.odometer-theme-default{direction: ltr;}
+.navbar-nav {
+  padding-left: auto;
+  padding-right: 0;
+}
+.navbar-brand {
+  margin-right: unset;
+  margin-left: var(--bs-navbar-brand-margin-end);
+}
+.form-select {
+  padding: .375rem .75rem .375rem 2.25rem!important;
+  background-position: left .75rem center!important;
+}
+.form-check .form-check-input {
+  float: right!important;
+  margin-left: unset!important;
+  margin-right: -1.5em!important;
+}
+.form-check {
+  padding-left: unset!important;
+  padding-right: 1.5em!important;
+}
+.blog-details .date {
+  border-radius: 10px 0 0 0;
+}
+.help-block ul {
+  padding-right: 0!important;
+}
+
+
+
+.navbar-light .navbar-nav .nav-item .dropdown-menu {
+    text-align: right;
+    right: 0;
+    left: auto;
+}
+
+.about-image .col-lg-6:nth-child(2) .image img {
+    border-radius: 25px 0 0 0;
+}
+.about-image .col-lg-6:first-child .image img {
+    border-radius: 0 25px 0 0;
+}
+.about-image .col-lg-6:last-child .image img {
+    border-radius: 0 0 0 25px;
+}
+.about-image .col-lg-6:nth-child(3) .image img {
+    border-radius: 0 0 25px 0;
+}
+
+.tab-slider-tabs {
+
+}
+.single-blog-item .link-btn {
+    left: 0;
+    right: auto;
+    border-radius: 0 50% 0 0;
+}
+
+.text-end {
+    text-align: left !important;
+}
+
+.go-top {
+    left: 0;
+    right: auto;
+    border-radius: 0 10px 10px 0;
+}
+
+
+.woocommerce-topbar .woocommerce-topbar-ordering .form-select {
+
+}
+
+.billing-details .form-group .form-select {
+
+}
+
+
+
+/* Start "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+
+
+.ds-banner-shape-1 {
+    right: 30%;
+    left: auto;
+    transform: translateX(-30%);
+}
+.ds-banner-shape-2 {
+    right: 2%;
+    left: auto;
+    transform: translateX(-2%);
+}
+.ds-banner-shape-3 {
+    right: 45%;
+    left: auto;
+    transform: translateX(-45%);
+}
+
+.ps-5 {
+    padding-right: 3rem !important;
+    padding-left: 0 !important;
+}
+
+.social-media-banner-shape-1 {
+    right: 15%;
+    left: auto;
+    transform: translateX(-15%);
+}
+.social-media-banner-shape-2 {
+    left: 35%;
+    right: auto;
+    transform: translateX(-35%);
+}
+.social-media-banner-shape-3 {
+    right: 35%;
+    left: auto;
+    transform: translateX(-35%);
+}
+.social-media-banner-shape-4 {
+    left: 35%;
+    right: auto;
+    transform: translateX(-35%);
+}
+
+.cryptocurrency-banner-shape-1 {
+    right: 2%;
+    left: auto;
+    transform: translateX(-2%);
+}
+.cryptocurrency-banner-shape-2 {
+    right: 35%;
+    left: auto;
+    transform: translateX(-35%);
+}
+.cryptocurrency-banner-shape-3 {
+    right: 15%;
+    left: auto;
+    transform: translateX(-15%);
+}
+.cryptocurrency-banner-shape-4 {
+    left: 30%;
+    right: auto;
+    transform: translateX(-30%);
+}
+
+.cyber-security-shape-1 {
+    right: 25%;
+    left: auto;
+    transform: translateX(-25%);
+}
+.cyber-security-shape-2 {
+    right: 2%;
+    left: auto;
+    transform: translateX(-2%);
+}
+.cyber-security-shape-3 {
+    right: 35%;
+    left: auto;
+    transform: translateX(-35%);
+}
+
+.premium-security-content .skill-bar .progress-number-mark {
+    transform: translateX(75%);
+}
+
+.cs-reviews-shape1 {
+    right: 5%;
+    left: auto;
+    transform: translateX(-5%);
+}
+.cs-reviews-shape2 {
+    right: 46.5%;
+    left: auto;
+    transform: translateX(46.5%);
+}
+.cs-reviews-slides.owl-theme .owl-nav {
+
+}
+
+
+/* End "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+
+
+/** Responsive Area
+==============================**/
+@media only screen and (max-width: 767px) { 
+
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        padding-left: 0;
+    }
+
+  .cart-table table thead tr th {
+    padding: 15px 0 0 80px !important;
+    font-size: 15px;
+    white-space: nowrap;
+  }
+
+    /* Start "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: right !important;
+    }
+
+    .footer-wrap-area .single-footer-widget.ps-5 {
+        padding-right: 0 !important;
+    }
+
+
+    .cryptocurrency-banner-image.ps-5 {
+        padding-right: 0 !important;
+    }
+
+
+
+    /* End "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        padding-left: 0;
+    }
+
+
+
+    /* Start "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: right !important;
+    }
+
+    .footer-wrap-area .single-footer-widget.ps-5 {
+        padding-right: 0 !important;
+    }
+
+
+
+    .cryptocurrency-banner-image.ps-5 {
+        padding-right: 0 !important;
+    }
+
+
+
+    /* End "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+    .hero-image {
+
+    }   
+    
+    /* Start "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+
+
+
+    /* End "Digital Solutions", "Cryptocurrency", "Social Media Marketing" & "Cyber Security" "RTL CSS" */
+}
+
+@media only screen and (max-width: 991px) {
+    
+}
+
+@media only screen and (min-width: 1550px) {
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+}

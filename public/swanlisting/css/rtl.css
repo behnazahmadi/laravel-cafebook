@@ -1,0 +1,683 @@
+﻿body {
+	direction: rtl;
+}
+.loader-text::after {
+	content: "در حال بارگیری";
+}
+@keyframes loading-text {
+    0% {
+        content: "در حال بارگیری";
+    }
+    25% {
+        content: "در حال بارگیری ..";
+    }
+    50% {
+        content: "در حال بارگیری ...";
+    }
+    75% {
+        content: "در حال بارگیری ....";
+    }
+}
+
+
+
+
+
+.sidebar .widget-boxed .form-group input[type="checkbox"]:checked + label::after {
+	left: auto;
+	right: 6px;
+}
+.opening-hours li span {
+	float: left;
+}
+.profile .profile-info ul {
+	float: right;
+	text-align: right;
+}
+
+
+
+
+.page-title::before {
+	left: auto;
+	right: 0;
+}
+
+.breadcrumbs-area .breadcrumbs {
+	text-align: right;
+}
+
+.breadcrumbs-area .breadcrumbs ul li {
+	margin-left: auto;
+	margin-right: 10px;
+}
+.sidebar .widget-boxed .user-contact-form .form-group {
+	padding-left: auto;
+	padding-right: 0;
+}
+.register-area .back-btn {
+	left: auto;
+	right: 30px;
+}
+.error-area .back-btn {
+	left: auto;
+	right: 30px;
+}
+.login-area .back-btn {
+	left: auto;
+	right: 30px;
+}
+.blog-details .prev-next-nav a {
+	color: #fff;
+	padding: 7px 20px;
+	display: inline-block;
+	border-radius: 0 20px 20px 0;
+}
+.blog-details .prev-next-nav .next-nav {
+	float: left;
+	border-radius: 20px 0 0 20px;
+}
+.category-box figure .list-like {
+	right: auto;
+	left: 15px;
+}
+.listings-details .box .listing-title-content p i {
+	margin-right: auto;
+	margin-left: 4px;
+}
+.listings-details .box .listing-title-content ul li i {
+	margin-right: auto;
+	margin-left: 4px;
+}
+.listings-details .box .title {
+	padding: 9px 15px;
+	text-align: right;
+	left: auto;
+	right: 0;
+}
+.listings-details .box .title i {
+    margin-right: auto;
+    margin-left: 5px;
+}
+.sidebar .widget-boxed .book-reservation .form-group {
+	padding-left: auto;
+	padding-right: 0;
+}
+.massage .dashboard-detail-box .single-messages {
+	padding-left: 0;
+	padding-right: 115px;
+}
+
+
+
+
+.classynav ul li.right-side {
+    margin-right: 25px;
+    margin-left: 0;
+}
+.main-banner .form-group a {
+    left: 20px;
+    right: auto;
+}
+.nice-select .option {
+    text-align: right;
+}
+.light .classynav ul li .dropdown li a {
+    text-align: right;
+}
+.breakpoint-off .classynav ul li .dropdown li .dropdown {
+    right: -230px;
+    left: auto;
+}
+.category-content {
+    right: 30px;
+    left: auto;
+    text-align: right;
+}
+.single-listings figure .listings-tag {
+    right: 20px;
+    left: auto;
+}
+.single-listings figure .price {
+    left: 0;
+    right: auto;
+    border-radius: 0 10px 0 0;
+}
+.single-listings figure .list-like {
+    right: 15px;
+    left: auto;
+}
+.single-listings figure .featured-tour {
+    left: 15px;
+    right: auto;
+}
+.single-listings .author .author-thumb {
+    float: right;
+}
+.single-listings .author .author-info {
+    padding-right: 15px;
+    padding-left: 0;
+    text-align: right;
+}
+.single-box:hover .link-btn {
+    left: 0;
+    right: auto;
+}
+.single-box .link-btn {
+    left: -20px;
+    right: auto;
+    border-radius: 0 50% 0 0;
+}
+.single-cities ul {
+    left: 20px;
+    right: auto;
+}
+.cities-content {
+    right: 20px;
+    left: auto;
+    text-align: right;
+}
+.fun-fact {
+    padding-right: 80px;
+    padding-left: 0;
+    text-align: right;
+}
+.fun-fact i {
+    right: 0;
+    left: auto;;
+}
+.place-content {
+    right: 15px;
+    left: auto;
+    text-align: right;
+}
+.single-place figure .list-like {
+    right: 15px;
+    left: auto;
+}
+.single-place figure .book-now {
+    left: 20px;
+    right: auto;
+    text-align: left;
+}
+.star-rating .rating-counter {
+    display: inline;
+}
+.star-rating {
+    text-align: right;
+}
+.single-item.with-line::before {
+    left: -120px;
+    right: auto;
+}
+.single-blog-post .post-category {
+    right: 20px;
+    left: auto;
+}
+.blog-post-content {
+    text-align: right;
+}
+.newsletter form .btn {
+    left: 8px;
+    right: auto;
+}
+.single-widget {
+    text-align: right;
+}
+.single-widget .footer-contact-info li {
+    padding-right: 30px;
+    padding-left: 0;
+}
+.single-widget .footer-contact-info li i {
+    right: 0;
+    left: auto;
+}
+.single-widget .support-links li a:hover {
+    padding-right: 8px;
+    padding-left: 0;
+}
+.single-widget .quick-links li a:hover {
+    padding-right: 8px;
+    padding-left: 0;
+}
+.copyright-area {
+    text-align: right;
+}
+.copyright-area ul {
+    text-align: left;
+}
+.page-title h3 {
+    text-align: right;
+}
+
+.page-title .breadcrumbs li {
+    margin-right: 8px;
+    margin-left: 0;
+}
+.about-text {
+    text-align: right;
+}
+.details-box {
+    text-align: right;
+}
+.feedback-box {
+    text-align: right;
+}
+.single-feedback span {
+    left: 8px;
+    right: auto;
+}
+.feedback-author .author-info {
+    padding-right: 25px;
+    padding-left: 0;
+    text-align: right;
+    float: right;
+}
+.feedback-author .author-img {
+    float: right;
+}
+.feedback-box .fas.fa-sort-down {
+    right: 20%;
+    left: auto;
+}
+#contactForm {
+    text-align: right;
+}
+.text-danger {
+    text-align: right !important;
+}
+.get-in-touch {
+    text-align: right;
+}
+.get-in-touch .stay-connected li a i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.contact-info .info-box .content {
+    padding-right: 65px;
+    padding-left: 0;
+    text-align: right;
+}
+.contact-info .info-box .icon {
+    float: right;
+}
+.map-box .contact-info {
+    left: 75px;
+    right: auto;
+}
+.dismissButton {
+    float: left;
+}
+table {
+    text-align: right;
+}
+.team-details {
+    text-align: right;
+}
+.team-details-area .title::before {
+    right: 0;
+    left: auto;
+}
+.team-details ul {
+    border-right: 4px solid #ff4e00;
+    border-left: none;
+}
+.team-details-area .title {
+    text-align: right;
+}
+.sidebar .widget-boxed {
+    text-align: right;
+}
+.sidebar .widget-boxed .user-contact li {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.sidebar .widget-boxed .user-contact li span i {
+    right: 0;
+    left: auto;
+}
+.sidebar .widget-boxed .title i {
+    float: left;
+}
+.sidebar .widget-boxed .single-latest-blogs {
+    padding-right: 115px;
+    padding-left: 0;
+}
+.sidebar .widget-boxed .single-latest-blogs a img {
+    right: 0;
+    left: auto;
+}
+.sidebar .widget-boxed .search-box .btn {
+    left: 0;
+    right: auto;
+}
+.sidebar .top-categories li a span {
+    float: left;
+}
+.blog-details {
+    text-align: right;
+}
+.blog-details .entry-meta li {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.blog-details .blockquote {
+    border-right: 4px solid #ff4e00;
+}
+.blog-details h4.title::before {
+    right: 0;
+    left: auto;
+}
+.blog-details .prev-next-nav .next-nav {
+    float: left;
+}
+.blog-details .author-details .author-content ul {
+    left: 10px;
+    right: auto;
+}
+.blog-details .about-author .author-details {
+    padding-right: 140px;
+    padding-left: 0;
+}
+.blog-details .author-details .img {
+    right: 10px;
+    left: auto;
+}
+.blog-comments .single-comments {
+    padding-right: 105px;
+    padding-left: 0;
+}
+.blog-comments .single-comments .content a {
+    left: 0;
+    right: auto;
+}
+.blog-comments .single-comments .img {
+    right: 0;
+    left: auto;
+}
+.blog-comments .single-comments.left-mr {
+    margin-right: 105px;
+    margin-left: 0;
+}
+.add-listing {
+    text-align: right;
+}
+.add-listing-box .form-group.check-box-check label::before {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.user-profile-menu .user-menu {
+    text-align: right;
+}
+.user-profile-menu .user-menu .title i {
+    float: left;
+}
+.user-profile-menu .user-menu ul li a i {
+    margin-left: 4px;
+    margin-right: 0;
+}
+.submit-listing {
+    float: left;
+}
+.error .btn {
+    left: 0;
+    right: auto;
+}
+.faq .card-header {
+    text-align: right;
+}
+.faq .card-body {
+    text-align: right;
+}
+.faq .card-header i {
+    float: left;
+}
+.dashboard-box i {
+    left: 25px;
+    right: auto;
+}
+.dashboard-detail-box .title {
+    text-align: right;
+}
+.single-messages {
+    padding-right: 68px;
+    padding-left: 0;
+    text-align: right;
+}
+.single-messages img {
+    right: 0;
+    left: auto;
+}
+.single-messages h4 {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.single-notification {
+    padding-right: 65px;
+    padding-left: 0;
+    text-align: right;
+}
+.single-notification img {
+    right: 0;
+    left: auto;
+}
+.listing-table .table thead th {
+text-align: right;
+border-left: 1px solid #dee2e6;
+}
+.single-reviews {
+    padding-right: 110px;
+    padding-left: 0;
+    text-align: right;
+}
+.single-reviews img {
+    right: 0;
+    left: auto;
+}
+.single-reviews h4 {
+    margin-left: 10px;
+    margin-right: 0;
+}
+.profile .profile-box .title {
+    text-align: right;
+left: auto;
+right: 0;
+}
+.profile .profile-box {
+    text-align: right;
+}
+.profile .social-follow ul li a i {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.edit-profile .edit-profile-information {
+    text-align: right;
+}
+.manage-listing .title {
+    text-align: right;
+}
+.listing-table .table td {
+    padding: .75rem !important;
+}
+.manage-listing .listing-table .listing-image {
+    padding-right: 0 !important;
+}
+.print-invoice {
+    text-align: right;
+}
+.check-invoice {
+    text-align: right;
+}
+.search-boxes-area .form-group a {
+    left: 20px;
+    right: auto;
+}
+.filter-listing {
+    text-align: right;
+}
+.sidebar .widget-boxed .form-group label::before {
+    right: 0;
+    left: auto;
+}
+.sidebar .widget-boxed .form-group {
+    padding-right: 25px;
+    padding-left: 0;
+}
+.sidebar .latest-listing-img {
+    float: right;
+}
+.sidebar .latest-listing-content {
+    padding-right: 15px;
+    padding-left: 0;
+}
+.listings-details {
+    text-align: right;
+}
+
+
+
+
+.listings-details .box .listing-title-content ul li {
+	border-left: 1px solid #fff;
+	padding-right: 0;
+	padding-left: 15px;
+
+}
+
+
+
+
+.listings-details .box .photoUpload.btn-primary {
+    float: left;
+}
+.listings-details .box .title {
+    text-align-last: right;
+}
+.loader-dot {
+    left: 0;
+}
+.main-banner .btn i {
+    margin-left: 4px;
+    margin-right: 0;
+}
+.breakpoint-off .classynav ul li .dropdown {
+    right: 0;
+    left: auto;
+}
+.nice-select {
+    text-align: right;
+}
+.nice-select:after {
+    left: 12px;
+    right: auto;
+}
+
+
+
+
+.breadcrumbs-area .breadcrumbs ul {
+float: left;
+}
+
+
+
+
+
+
+
+.add-listing-box .form-group.check-box-check input[type="checkbox"] {
+    left: auto;
+    right: 0;
+}
+.add-listing-box .form-group.check-box-check input[type="checkbox"]:checked + label::after {
+    left: auto;
+    top: 4px;
+    right: 6px;
+}
+.sidebar .widget-boxed .form-group input[type="checkbox"] {
+    left: auto;
+    right: 0;
+}
+.sidebar .widget-boxed .form-group label::before {
+    left: auto;
+    right: 0;
+    top: 2px;
+}
+.listings-list-box .book-now {
+    text-align: left;
+}
+.listings-details .box .photoUpload i {
+    margin-left: 8px;
+    margin-right: 0;
+}
+.listing-table .table .action a.edit {
+    margin-left: 5px;
+    margin-right: 0;
+}
+.team-details ul li i {
+    margin-left: 4px;
+    margin-right: 0;
+}
+.go-top {
+    left: 20px;
+    right: auto;
+}
+
+
+/* RTL responsive css*/
+@media only screen and (max-width: 767px) {
+    .classynav > ul > li.cn-dropdown-item.has-down > .dd-arrow, .classynav > ul > li.megamenu-item > .dd-arrow {
+        right: 8px;
+        left: auto;
+    }
+    .fun-fact {
+        padding-right: 0 !important;
+    }
+    .single-reviews {
+        padding-left: 0 !important;
+    }
+    .manage-listing .listing-table .listing-image {
+        width: 190px !important;
+    }
+    .sidebar .widget-boxed .single-latest-blogs {
+        padding-left: 0 !important;
+    }
+    .page-title h3 {
+        text-align: center;
+    }
+    .blog-comments .single-comments {
+        padding-left: 0 !important;
+    }
+    .blog-comments .single-comments {
+        padding-right: 85px !important;
+    }
+    .blog-comments .single-comments.left-mr {
+        margin-right: 0 !important;
+    }
+    .blog-comments .single-comments .content a {
+        position: relative !important;
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .classynav > ul > li.cn-dropdown-item.has-down > .dd-arrow, .classynav > ul > li.megamenu-item > .dd-arrow {
+        right: 8px;
+        left: auto;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .classy-navbar .nav-brand {
+        margin-left: 0 !important;
+        margin-right: 0;
+    }
+    .sidebar .widget-boxed .single-latest-blogs {
+        padding-left: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    
+}
+/*# sourceMappingURL=responsive.css.map */

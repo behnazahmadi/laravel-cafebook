@@ -1,0 +1,384 @@
+a {
+	color: #ff4e00;
+}
+a:hover, a:hover {
+	color: #ff4e00;
+}
+.section-title h4 span {
+	color: #ff4e00;
+}
+.section-title h4::before {
+	background: #ff4e00;
+}
+.btn-primary {
+	background-color: #ff4e00;
+	border-color: #ff4e00;
+}
+.btn-primary:hover, .btn-primary:focus {
+	color: #ff4e00;
+	border-color: #ff4e00;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	color: #ff4e00;
+	border-color: #ff4e00;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+	background-color: #ff4e00;
+	border-color: #ff4e00;
+}
+.btn.btn-primary.disabled:hover {
+	color: #ff4e00;
+}
+.owl-theme .owl-nav [class*="owl-"]:hover {
+	background: #ff4e00;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	background: #ff4e00;
+}
+.main-header-area .classynav ul li a.active, .main-header-area .classynav ul li a:hover {
+	color: #ff4e00;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown li a:hover {
+	color: #ff4e00;
+}
+.main-header-area .light .classynav ul li .dropdown li .dropdown li.active a {
+	color: #ff4e00;
+}
+.classynav ul li.cn-dropdown-item ul .active a {
+	color: #ff4e00;
+}
+.classynav ul li.right-side ul li .btn:hover, .classynav ul li.right-side ul li .btn:focus {
+	color: #ff4e00;
+}
+.popular-searchs li a:hover {
+	background: #ff4e00;
+	border-color: #ff4e00;
+}
+.single-listings figure .read-more .btn-primary:hover, .single-listings figure .read-more .btn-primary:focus {
+	color: #ff4e00;
+}
+.single-listings figure .listings-tag a:hover {
+	color: #ff4e00;
+}
+.single-listings figure .price {
+	background: #ff4e00;
+}
+.listings-content h3 a:hover {
+	color: #ff4e00;
+}
+.listings-content .location span i {
+	color: #ff4e00;
+}
+.single-box:hover::before, .single-box:hover::after {
+	border-color: #ff4e00;
+}
+.single-box:hover .icon {
+    color: #ff4e00;
+}
+.single-box:hover .link-btn {
+	background: #ff4e00;
+}
+.cities-content h4 a:hover {
+	color: #ff4e00;
+}
+.single-cities .browse-btn .btn-primary:hover, .single-cities .browse-btn .btn-primary:focus {
+	color: #ff4e00;
+}
+.fun-facts-area::before {
+    background: #ff4e00;
+}
+.fun-fact i {
+	color: #ff4e00;
+}
+.single-place .book-now .btn-primary:hover, .single-place .book-now .btn-primary:focus {
+	color: #ff4e00;
+}
+.place-content h3 a:hover {
+	color: #ff4e00;
+}
+.single-item i {
+	color: #ff4e00;
+}
+.single-blog-post figure .read-more .btn-primary:hover, .single-blog-post figure .read-more .btn-primary:focus {
+	color: #ff4e00;
+}
+.blog-post-content h3 a:hover {
+    color: #ff4e00;
+}
+.blog-details .entry-meta li i {
+	color: #ff4e00;
+}
+.blog-details .entry-meta li a:hover {
+	color: #ff4e00;
+}
+.blog-details .blockquote {
+	border-left: none;
+}
+.blog-details .share .share li a:hover {
+	background: #ff4e00;
+	border-color: #ff4e00;
+}
+.blog-details .prev-next-nav a {
+	background-color: #ff4e00;
+	border: 1px solid #ff4e00;
+}
+.blog-details .prev-next-nav a:hover {
+	color: #ff4e00;
+}
+.blog-details h4.title::before {
+	background: #ff4e00;
+}
+.blog-comments .single-comments .content a {
+	border: 1px solid #ff4e00;
+}
+.blog-comments .single-comments .content a:hover {
+    background: #ff4e00;
+}
+.comments-form .form-control:hover, .comments-form .form-control:focus {
+	border: 1px solid #ff4e00;
+}
+.about-text h3 span {
+	color: #ff4e00;
+}
+.about-text ul li i {
+	color: #ff4e00;
+}
+.video a:hover {
+    border-color: #ff4e00;
+    background: #ff4e00;
+}
+.pricingTable .title {
+	color: #ff4e00;
+}
+.pricingTable .price-value {
+	background-color: #ff4e00;
+}
+.our-team .social-media-team {
+	background-color: #ff4e00;
+}
+.our-team .team-social li a:hover {
+	color: #ff4e00;
+}
+.our-team .post-title a:hover {
+	color: #ff4e00;
+}
+.team-details-area .title::before {
+	background: #ff4e00;
+}
+.team-details ul {
+	border-left: none;
+}
+.team-details ul li i {
+	color: #ff4e00;
+}
+.sidebar .widget-boxed .user-contact li span i {
+	color: #ff4e00;
+}
+.sidebar .widget-boxed .user-contact li a:hover {
+	color: #ff4e00;
+}
+.sidebar .widget-boxed .user-contact-form .form-control:hover, .sidebar .widget-boxed .user-contact-form .form-control:focus {
+	border: 1px solid #ff4e00;
+}
+.feedback-box {
+	background: #ff4e00;
+}
+.feedback-box .fas.fa-sort-down {
+	color: #ff4e00;
+}
+.filter-listing a.active, .filter-listing a:hover {
+	background: #ff4e00;
+	border-color: #ff4e00;
+}
+.listing-title-content span.category {
+	border: 1px solid #ff4e00;
+	color: #ff4e00;
+}
+.listings-details .box .listing-title-content p i {
+	color: #ff4e00;
+}
+.listings-details .box .listing-title-content ul li i {
+	color: #ff4e00;
+}
+.listings-details .box .title {
+	background: #ff4e00;
+}
+.listings-details .description-box li i {
+	color: #ff4e00;
+}
+.listings-details .amenities-box ul li i {
+	color: #ff4e00;
+}
+.listings-details .box .rating-box h3 {
+	color: #ff4e00;
+}
+.photoUpload.btn.btn-primary:hover {
+	background: #ff4e00;
+	border-color: #ff4e00;
+}
+.listing-contact-info li i {
+	color: #ff4e00;
+}
+.listing-contact-info li a:hover {
+	color: #ff4e00;
+}
+.share-info li a {
+	color: #ff4e00;
+}
+.share-info li a:hover {
+	background: #ff4e00;
+}
+.single-category-box:hover::before {
+	background: #ff4e00;
+}
+.category-box .category-content h4 a:hover {
+	color: #ff4e00;
+}
+.breadcrumbs-area .breadcrumbs ul li a:hover {
+	color: #ff4e00;
+}
+.user-profile-menu .profile-info {
+	background: #ff4e00;
+}
+.user-profile-menu .user-menu .title i {
+	color: #ff4e00;
+}
+.user-profile-menu .user-menu ul li a:hover {
+	color: #ff4e00;
+}
+.user-profile-menu .user-menu ul .active a {
+	color: #ff4e00;
+}
+.dashboard-detail-box .title {
+	background: #ff4e00;
+}
+.single-notification h5 a:hover {
+    color: #ff4e00;
+}
+.single-messages h5 a:hover {
+	color: #ff4e00;
+}
+.single-messages h4 i {
+    color: #ff4e00;
+}
+.listing-table .table td.listing-name a:hover {
+	color: #ff4e00;
+}
+.listing-table .table .status {
+	background: #ff4e00;
+}
+.listing-table .table .action a {
+	background: #ff4e00;
+	border: 1px solid #ff4e00;
+}
+.listing-table .table .action a:hover {
+    color: #ff4e00;
+}
+.single-reviews h5 a:hover {
+	color: #ff4e00;
+}
+.profile .profile-box .title {
+	background: #ff4e00;
+}
+.profile .profile-info ul li a:hover {
+	color: #ff4e00;
+}
+.edit-profile .avater-box .upload-btn .btn {
+	border: 2px solid #ff4e00;
+	color: #ff4e00;
+}
+.manage-listing .title {
+	background: #ff4e00;
+}
+.manage-listing .listing-table .listing-info a:hover {
+	color: #ff4e00;
+}
+.manage-listing .listing-table .listing-info p i {
+	color: #ff4e00;
+}
+.invoice-text ul li a:hover {
+	color: #ff4e00;
+}
+.add-listing-box .listing-box-header {
+	background: #ff4e00;
+}
+.add-listing-box .form-group.check-box-check input[type="checkbox"]:checked + label::before {
+	border-color: #ff4e00;
+	background: #ff4e00;
+}
+.page-item.active .page-link {
+	background-color: #ff4e00;
+	border-color: #ff4e00;
+}
+.page-link:hover, .page-link:focus {
+	background: #ff4e00;
+}
+.sidebar .widget-boxed .title i {
+	color: #ff4e00;
+}
+.sidebar .widget-boxed .form-group input[type="checkbox"]:checked + label::before {
+	border-color: #ff4e00;
+	background: #ff4e00;
+}
+.sidebar .latest-listing-content h4 a:hover {
+	color: #ff4e00;
+}
+.sidebar .latest-listing-content span i {
+	color: #ff4e00;
+}
+.sidebar .top-categories li a:hover {
+	color: #ff4e00;
+}
+.sidebar .widget-boxed .latest-blogs-content h3 a:hover {
+	color: #ff4e00;
+}
+.sidebar .top-categories li a span {
+	background: #ff4e00;
+}
+.faq .card-header {
+	background: #ff4e00;
+}
+.contact-info .info-box .icon {
+	color: #ff4e00;
+	border: 1px solid #ff4e00;
+}
+.contact-info .info-box:hover .icon {
+	background: #ff4e00;
+}
+.contact-info .info-box .content p a:hover {
+	color: #ff4e00;
+}
+.get-in-touch .text span {
+	color: #ff4e00;
+}
+.get-in-touch .stay-connected li a:hover {
+	color: #ff4e00;
+}
+.get-in-touch .stay-connected li a:hover i {
+	background: #ff4e00;
+	border-color: #ff4e00;
+}
+.single-widget .title::before {
+	background: #ff4e00;
+}
+.social-link li a:hover {
+	background: #ff4e00;
+}
+.single-widget .quick-links li a:hover {
+	color: #ff4e00;
+}
+.single-widget .support-links li a:hover {
+	color: #ff4e00;
+}
+.single-widget .footer-contact-info li i {
+	color: #ff4e00;
+}
+.single-widget .footer-contact-info li a:hover {
+	color: #ff4e00;
+}
+.copyright-area ul li a:hover {
+	color: #ff4e00;
+}
+.go-top:hover {
+    background: #ff4e00;
+}
